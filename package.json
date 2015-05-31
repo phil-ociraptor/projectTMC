@@ -1,0 +1,11 @@
+{
+  "name": "projectTMC",
+  "version": "1.0.0",
+  "description": "First iteration of The Millennial Cake project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
